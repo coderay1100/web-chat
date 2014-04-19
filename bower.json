@@ -1,0 +1,28 @@
+{
+  "name": "chat-app",
+  "version": "0.0.0",
+  "authors": [
+    "Ray Putra <rayp1100@gmail.com>"
+  ],
+  "description": "Simple chat app using long-polling approach.",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "angular",
+    "chat",
+    "app"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.16"
+  }
+}

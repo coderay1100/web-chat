@@ -1,0 +1,23 @@
+{
+  "name": "chat-app",
+  "version": "0.0.0",
+  "description": "Simple chat app implemented using long-polling approach",
+  "main": "index.html",
+  "dependencies": {
+    "http-server": "~0.6.1",
+    "express": "~4.0.0",
+    "socket.io": "~0.9.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -p 8000"
+  },
+  "keywords": [
+    "angular",
+    "chat",
+    "app"
+  ],
+  "author": "Raibima",
+  "license": "MIT"
+}
