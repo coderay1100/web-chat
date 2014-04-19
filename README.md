@@ -14,3 +14,5 @@ Once you have NodeJS installed:
   $ bower install
   $ node server.js
 </pre>
+
+Then open your web browser: http://localhost:3000
