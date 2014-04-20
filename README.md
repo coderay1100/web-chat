@@ -7,12 +7,12 @@ Make sure to have NodeJS installed on your machine.
 
 Once you have NodeJS installed:
 <pre>
-  $ git clone https://github.com/coderay1100/web-chat.git
-  $ cd web-chat
-  $ npm install -g bower
-  $ npm install
-  $ bower install
-  $ node server.js
+$ git clone https://github.com/coderay1100/web-chat.git
+$ cd web-chat
+$ npm install -g bower
+$ npm install
+$ bower install
+$ node server.js
 </pre>
 
 Then open your web browser: http://localhost:3000
